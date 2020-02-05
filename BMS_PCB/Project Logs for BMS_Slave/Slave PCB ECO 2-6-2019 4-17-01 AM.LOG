@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=CAN BUS.CANH New Net Name=CAN_P
+Change Net Name : Old Net Name=CAN BUS.CANL New Net Name=CAN_N
+Added Differential Pair: Name=CAN
+Change Rule Scope 1 : Old Scope=InNet('CAN BUS.CANH') New Scope=InNet('CAN_P')
+Change Rule Scope 1 : Old Scope=InNet('CAN BUS.CANL') New Scope=InNet('CAN_N')
+Added Class: Name=DiffPairsRouting

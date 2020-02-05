@@ -1,0 +1,3 @@
+Address=A3,A2,A1,A0
+Cells=Cell_12,Cell_11,Cell_10,Cell_9,Cell_8,Cell_7,Cell_6,Cell_5,Cell_4,Cell_3,Cell_2,Cell_1,Cell_0
+SPI=MISO,MOSI,SCK,CS

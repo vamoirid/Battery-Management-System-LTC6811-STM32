@@ -1,0 +1,60 @@
+Added Component: Designator=R201_CELL1(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R201_CELL2(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R201_CELL3(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R201_CELL4(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R201_CELL5(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R201_CELL6(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R201_CELL7(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R201_CELL8(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R201_CELL9(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R201_CELL10(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R201_CELL11(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R201_CELL12(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL1-1
+Added Pin To Net: NetName=NetD200_CELL1_1 Pin=R201_CELL1-2
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL2-1
+Added Pin To Net: NetName=NetD200_CELL2_1 Pin=R201_CELL2-2
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL3-1
+Added Pin To Net: NetName=NetD200_CELL3_1 Pin=R201_CELL3-2
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL4-1
+Added Pin To Net: NetName=NetD200_CELL4_1 Pin=R201_CELL4-2
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL5-1
+Added Pin To Net: NetName=NetD200_CELL5_1 Pin=R201_CELL5-2
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL6-1
+Added Pin To Net: NetName=NetD200_CELL6_1 Pin=R201_CELL6-2
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL7-1
+Added Pin To Net: NetName=NetD200_CELL7_1 Pin=R201_CELL7-2
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL8-1
+Added Pin To Net: NetName=NetD200_CELL8_1 Pin=R201_CELL8-2
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL9-1
+Added Pin To Net: NetName=NetD200_CELL9_1 Pin=R201_CELL9-2
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL10-1
+Added Pin To Net: NetName=NetD200_CELL10_1 Pin=R201_CELL10-2
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL11-1
+Added Pin To Net: NetName=NetD200_CELL11_1 Pin=R201_CELL11-2
+Added Pin To Net: NetName=NetR200_CELL1_1 Pin=R201_CELL12-1
+Added Pin To Net: NetName=NetD200_CELL12_1 Pin=R201_CELL12-2
+Added Member To Class: ClassName=CELL1 Member=Component R201_CELL1 (R201) R Discharge
+Added Member To Class: ClassName=CELL2 Member=Component R201_CELL2 (R201) R Discharge
+Added Member To Class: ClassName=CELL3 Member=Component R201_CELL3 (R201) R Discharge
+Added Member To Class: ClassName=CELL4 Member=Component R201_CELL4 (R201) R Discharge
+Added Member To Class: ClassName=CELL5 Member=Component R201_CELL5 (R201) R Discharge
+Added Member To Class: ClassName=CELL6 Member=Component R201_CELL6 (R201) R Discharge
+Added Member To Class: ClassName=CELL7 Member=Component R201_CELL7 (R201) R Discharge
+Added Member To Class: ClassName=CELL8 Member=Component R201_CELL8 (R201) R Discharge
+Added Member To Class: ClassName=CELL9 Member=Component R201_CELL9 (R201) R Discharge
+Added Member To Class: ClassName=CELL10 Member=Component R201_CELL10 (R201) R Discharge
+Added Member To Class: ClassName=CELL11 Member=Component R201_CELL11 (R201) R Discharge
+Added Member To Class: ClassName=CELL12 Member=Component R201_CELL12 (R201) R Discharge

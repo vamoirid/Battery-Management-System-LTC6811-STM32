@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=CELL_CELL1_P Pin=L200_CELL2-1
+Removed Pin From Net: NetName=CELL_CELL1_P Pin=L200_CELL3-1
+Removed Pin From Net: NetName=CELL_CELL1_P Pin=L200_CELL4-1
+Removed Pin From Net: NetName=CELL_CELL1_P Pin=L200_CELL5-1
+Removed Pin From Net: NetName=CELL_CELL1_P Pin=L200_CELL6-1
+Removed Pin From Net: NetName=CELL_CELL1_P Pin=L200_CELL7-1
+Removed Pin From Net: NetName=CELL_CELL1_P Pin=L200_CELL8-1
+Removed Pin From Net: NetName=CELL_CELL1_P Pin=L200_CELL9-1
+Removed Pin From Net: NetName=CELL_CELL1_P Pin=L200_CELL10-1
+Removed Pin From Net: NetName=CELL_CELL1_P Pin=L200_CELL11-1
+Removed Pin From Net: NetName=CELL_CELL1_P Pin=L200_CELL12-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R200_CELL2-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R200_CELL3-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R200_CELL4-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R200_CELL5-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R200_CELL6-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R200_CELL7-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R200_CELL8-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R200_CELL9-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R200_CELL10-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R200_CELL11-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R200_CELL12-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R201_CELL2-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R201_CELL3-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R201_CELL4-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R201_CELL5-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R201_CELL6-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R201_CELL7-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R201_CELL8-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R201_CELL9-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R201_CELL10-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R201_CELL11-1
+Removed Pin From Net: NetName=CELL_CELL1_N Pin=R201_CELL12-1
+Added Pin To Net: NetName=CELL_CELL2_N Pin=R200_CELL2-1
+Added Pin To Net: NetName=CELL_CELL2_N Pin=R201_CELL2-1
+Added Net: Name=CELL_CELL2_N
+Added Pin To Net: NetName=CELL_CELL2_P Pin=L200_CELL2-1
+Added Net: Name=CELL_CELL2_P
+Added Pin To Net: NetName=CELL_CELL3_N Pin=R200_CELL3-1
+Added Pin To Net: NetName=CELL_CELL3_N Pin=R201_CELL3-1
+Added Net: Name=CELL_CELL3_N
+Added Pin To Net: NetName=CELL_CELL3_P Pin=L200_CELL3-1
+Added Net: Name=CELL_CELL3_P
+Added Pin To Net: NetName=CELL_CELL4_N Pin=R200_CELL4-1
+Added Pin To Net: NetName=CELL_CELL4_N Pin=R201_CELL4-1
+Added Net: Name=CELL_CELL4_N
+Added Pin To Net: NetName=CELL_CELL4_P Pin=L200_CELL4-1
+Added Net: Name=CELL_CELL4_P
+Added Pin To Net: NetName=CELL_CELL5_N Pin=R200_CELL5-1
+Added Pin To Net: NetName=CELL_CELL5_N Pin=R201_CELL5-1
+Added Net: Name=CELL_CELL5_N
+Added Pin To Net: NetName=CELL_CELL5_P Pin=L200_CELL5-1
+Added Net: Name=CELL_CELL5_P
+Added Pin To Net: NetName=CELL_CELL6_N Pin=R200_CELL6-1
+Added Pin To Net: NetName=CELL_CELL6_N Pin=R201_CELL6-1
+Added Net: Name=CELL_CELL6_N
+Added Pin To Net: NetName=CELL_CELL6_P Pin=L200_CELL6-1
+Added Net: Name=CELL_CELL6_P
+Added Pin To Net: NetName=CELL_CELL7_N Pin=R200_CELL7-1
+Added Pin To Net: NetName=CELL_CELL7_N Pin=R201_CELL7-1
+Added Net: Name=CELL_CELL7_N
+Added Pin To Net: NetName=CELL_CELL7_P Pin=L200_CELL7-1
+Added Net: Name=CELL_CELL7_P
+Added Pin To Net: NetName=CELL_CELL8_N Pin=R200_CELL8-1
+Added Pin To Net: NetName=CELL_CELL8_N Pin=R201_CELL8-1
+Added Net: Name=CELL_CELL8_N
+Added Pin To Net: NetName=CELL_CELL8_P Pin=L200_CELL8-1
+Added Net: Name=CELL_CELL8_P
+Added Pin To Net: NetName=CELL_CELL9_N Pin=R200_CELL9-1
+Added Pin To Net: NetName=CELL_CELL9_N Pin=R201_CELL9-1
+Added Net: Name=CELL_CELL9_N
+Added Pin To Net: NetName=CELL_CELL9_P Pin=L200_CELL9-1
+Added Net: Name=CELL_CELL9_P
+Added Pin To Net: NetName=CELL_CELL10_N Pin=R200_CELL10-1
+Added Pin To Net: NetName=CELL_CELL10_N Pin=R201_CELL10-1
+Added Net: Name=CELL_CELL10_N
+Added Pin To Net: NetName=CELL_CELL10_P Pin=L200_CELL10-1
+Added Net: Name=CELL_CELL10_P
+Added Pin To Net: NetName=CELL_CELL11_N Pin=R200_CELL11-1
+Added Pin To Net: NetName=CELL_CELL11_N Pin=R201_CELL11-1
+Added Net: Name=CELL_CELL11_N
+Added Pin To Net: NetName=CELL_CELL11_P Pin=L200_CELL11-1
+Added Net: Name=CELL_CELL11_P
+Added Pin To Net: NetName=CELL_CELL12_N Pin=R200_CELL12-1
+Added Pin To Net: NetName=CELL_CELL12_N Pin=R201_CELL12-1
+Added Net: Name=CELL_CELL12_N
+Added Pin To Net: NetName=CELL_CELL12_P Pin=L200_CELL12-1
+Added Net: Name=CELL_CELL12_P
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

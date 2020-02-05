@@ -1,0 +1,138 @@
+Removed Pin From Net: NetName=CAN BUS.CANL Pin=CAN Transceiver-12
+Removed Pin From Net: NetName=CAN BUS.CANH Pin=CAN Transceiver-13
+Removed Pin From Net: NetName=CAN BUS.CANH Pin=IC501-1
+Removed Pin From Net: NetName=CAN BUS.CANL Pin=IC501-2
+Removed Pin From Net: NetName=CAN BUS.CANL Pin=R_Term-1
+Removed Member From Class: ClassName=U_BMS_Microcontroller Member=0
+Change Component Designator: OldDesignator=0 NewDesignator=SC301
+Change Component Designator: OldDesignator=0 NewDesignator=SC304
+Change Component Designator: OldDesignator=0 NewDesignator=SC306
+Change Component Designator: OldDesignator=0 NewDesignator=SC308
+Change Component Designator: OldDesignator=0 NewDesignator=SC310
+Change Component Designator: OldDesignator=0 NewDesignator=SC312
+Change Component Designator: OldDesignator=0 NewDesignator=SC401
+Change Component Designator: OldDesignator=1 NewDesignator=SC300
+Change Component Designator: OldDesignator=1 NewDesignator=SC303
+Change Component Designator: OldDesignator=1 NewDesignator=SC305
+Change Component Designator: OldDesignator=1 NewDesignator=SC307
+Change Component Designator: OldDesignator=1 NewDesignator=SC309
+Change Component Designator: OldDesignator=1 NewDesignator=SC311
+Change Component Designator: OldDesignator=1 NewDesignator=SC400
+Change Component Designator: OldDesignator=3.3V  NewDesignator=3.3V Regulator
+Change Component Designator: OldDesignator=3.3V Supply NewDesignator=D601
+Change Component Designator: OldDesignator=5V ISO DC/DC NewDesignator=DC/DC ISO600
+Change Component Designator: OldDesignator=5V Supply NewDesignator=D600
+Change Component Designator: OldDesignator=CAN IN NewDesignator=H1
+Change Component Designator: OldDesignator=CAN OUT NewDesignator=H2
+Change Component Designator: OldDesignator=CAN Transceiver NewDesignator=IC500
+Change Component Designator: OldDesignator=Crystal NewDesignator=Y400
+Change Component Designator: OldDesignator=Current Protector NewDesignator=Current Protector600
+Change Component Designator: OldDesignator=DRIVE NewDesignator=D301
+Change Component Designator: OldDesignator=Fault NewDesignator=Fault600
+Change Component Designator: OldDesignator=LTC6811-2 NewDesignator=U300
+Change Component Designator: OldDesignator=MCU NewDesignator=MCU400
+Change Component Designator: OldDesignator=Programming NewDesignator=H3
+Change Component Designator: OldDesignator=R_Term NewDesignator=R_Term500
+Change Component Designator: OldDesignator=Reset NewDesignator=Tactile Switch400
+Change Component Designator: OldDesignator=Rx NewDesignator=Rx500
+Change Component Designator: OldDesignator=T_1 NewDesignator=T_2
+Change Component Designator: OldDesignator=Tx NewDesignator=Tx500
+Change Component Designator: OldDesignator=User LED NewDesignator=D400
+Change Component Designator: OldDesignator=WDT NewDesignator=SC302
+Change Component Description : Designator=Q200_CELL1 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL2 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL3 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL4 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL5 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL6 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL7 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL8 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL9 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL10 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL11 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL12 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change component parameters: Designator = "R_Term500"; Footprint = "RESC2012X07N"; UniqueID = "\CHXLIMCD\WRMFCQNS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "60"; VariantName = "[No Variations]"
+Added Component: Designator=C_Term500(CAPC2012X14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=Choke500(DLW32SH101XK2L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R_Term501(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "60"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_ISO Pin=C_Term500-2
+Added Pin To Net: NetName=CAN BUS.CANH Pin=Choke500-2
+Added Pin To Net: NetName=CAN BUS.CANL Pin=Choke500-3
+Added Pin To Net: NetName=CAN BUS.CANL Pin=IC501-1
+Added Pin To Net: NetName=CAN BUS.CANH Pin=IC501-2
+Added Pin To Net: NetName=CAN BUS.CANL Pin=R_Term501-1
+Change Net Name : Old Net Name=?0 New Net Name=?0
+Change Net Name : Old Net Name=?1 New Net Name=?1
+Change Net Name : Old Net Name=?2 New Net Name=?2
+Change Net Name : Old Net Name=?3 New Net Name=?3
+Added Pin To Net: NetName=NetC_Term500_1 Pin=C_Term500-1
+Added Pin To Net: NetName=NetC_Term500_1 Pin=R_Term500-1
+Added Pin To Net: NetName=NetC_Term500_1 Pin=R_Term501-2
+Added Net: Name=NetC_Term500_1
+Added Pin To Net: NetName=NetChoke500_1 Pin=Choke500-1
+Added Pin To Net: NetName=NetChoke500_1 Pin=IC500-13
+Added Net: Name=NetChoke500_1
+Added Pin To Net: NetName=NetChoke500_4 Pin=Choke500-4
+Added Pin To Net: NetName=NetChoke500_4 Pin=IC500-12
+Added Net: Name=NetChoke500_4
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component 3.3V Regulator NCV8161BSN330T1G
+Added Member To Class: ClassName=U_BMS_CAN Member=Component C_Term500 Cap
+Added Member To Class: ClassName=U_BMS_CAN Member=Component Choke500 CMCC
+Added Member To Class: ClassName=U_BMS_CAN Member=Component R_Term501 Res1
+Added Member To Class: ClassName=U_BMS_BatteryStackMonitor Member=Component SC303 Short Circuit
+Added Member To Class: ClassName=U_BMS_BatteryStackMonitor Member=Component SC304 Short Circuit
+Added Member To Class: ClassName=U_BMS_BatteryStackMonitor Member=Component SC305 Short Circuit
+Added Member To Class: ClassName=U_BMS_BatteryStackMonitor Member=Component SC306 Short Circuit
+Added Member To Class: ClassName=U_BMS_BatteryStackMonitor Member=Component SC307 Short Circuit
+Added Member To Class: ClassName=U_BMS_BatteryStackMonitor Member=Component SC308 Short Circuit
+Added Member To Class: ClassName=U_BMS_BatteryStackMonitor Member=Component SC309 Short Circuit
+Added Member To Class: ClassName=U_BMS_BatteryStackMonitor Member=Component SC310 Short Circuit
+Added Member To Class: ClassName=U_BMS_BatteryStackMonitor Member=Component SC311 Short Circuit
+Added Member To Class: ClassName=U_BMS_BatteryStackMonitor Member=Component SC312 Short Circuit
+Added Member To Class: ClassName=U_BMS_Microcontroller Member=Component SC400 Short Circuit
+Added Member To Class: ClassName=U_BMS_Microcontroller Member=Component SC401 Short Circuit
+Added Member To Class: ClassName=U_BMS_BatteryThermistors Member=Component T_2 Molex 2-pin
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

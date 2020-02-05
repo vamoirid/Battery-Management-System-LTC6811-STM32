@@ -1,0 +1,15 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\Vasileios Amoiridis\Desktop\Programma Proslhpshs Aristurtle\myLVS2019\PCBProjects\BMS\gerbers_BMS_Slave\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0118		220
+ 2 		0.0276		4
+ 3 		0.1480		10
+ 4 		0.1575		13

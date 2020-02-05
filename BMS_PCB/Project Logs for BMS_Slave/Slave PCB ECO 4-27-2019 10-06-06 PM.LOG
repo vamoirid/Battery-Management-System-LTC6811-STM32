@@ -1,0 +1,39 @@
+Change Component Footprint: Designator=C607 Old Footprint=RB7.6-15 New Footprint=TPSA226K006T0300 Capacitor
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component 3.3V Regulator NCV8161BSN330T1G
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component C600 Cap
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component C601 Cap
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component C602 Cap
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component C603 Cap
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component C604 Cap
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component C605 Cap
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component Current Protector600 ST890CDR
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component D600 Green LED
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component D601 Green LED
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component DC/DC ISO600 Isolated5VDC/DC
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component Fault600 Red LED
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component R600 Res1
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component R601 Res1
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component R602 Res1
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component R603 Res1
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component R604 Res1
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component R605 Res1
+Added Member To Class: ClassName=U_BMS_PowerManagement Member=Component R606 Res1
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

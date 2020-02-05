@@ -1,0 +1,222 @@
+Removed Pin From Net: NetName=NetD600_1 Pin=D600-1
+Removed Pin From Net: NetName=NetFault_1 Pin=Fault-1
+Removed Pin From Net: NetName=NetIC500_11 Pin=IC500-11
+Removed Pin From Net: NetName=CN3 Pin=L200_CELL1-2
+Removed Pin From Net: NetName=VCAP_1 Pin=L200_CELL2-1
+Removed Pin From Net: NetName=NetR501_1 Pin=L200_CELL2-2
+Removed Pin From Net: NetName=NetR500_1 Pin=L200_CELL3-2
+Removed Pin From Net: NetName=NetD600_1 Pin=L200_CELL4-2
+Removed Pin From Net: NetName=NetFault_1 Pin=L200_CELL5-2
+Removed Pin From Net: NetName=CN7 Pin=L200_CELL6-1
+Removed Pin From Net: NetName=CN8 Pin=L200_CELL6-2
+Removed Pin From Net: NetName=CN8 Pin=L200_CELL7-2
+Removed Pin From Net: NetName=CN9 Pin=L200_CELL8-2
+Removed Pin From Net: NetName=CN10 Pin=L200_CELL9-2
+Removed Pin From Net: NetName=CN11 Pin=L200_CELL10-2
+Removed Pin From Net: NetName=CN7 Pin=L200_CELL11-1
+Removed Pin From Net: NetName=NetIC500_11 Pin=L200_CELL11-2
+Removed Pin From Net: NetName=CN12 Pin=L200_CELL12-1
+Removed Pin From Net: NetName=CP12 Pin=L200_CELL12-2
+Removed Pin From Net: NetName=CN8 Pin=Q200_CELL6-2
+Removed Pin From Net: NetName=CM1 Pin=R200_CELL1-1
+Removed Pin From Net: NetName=VCAP_1 Pin=R200_CELL3-1
+Removed Pin From Net: NetName=CN7 Pin=R200_CELL7-1
+Removed Pin From Net: NetName=CN7 Pin=R200_CELL12-1
+Removed Pin From Net: NetName=CM1 Pin=R201_CELL1-1
+Removed Pin From Net: NetName=VCAP_1 Pin=R201_CELL3-1
+Removed Pin From Net: NetName=CN7 Pin=R201_CELL7-1
+Removed Pin From Net: NetName=CN7 Pin=R201_CELL12-1
+Removed Pin From Net: NetName=CN8 Pin=R202_CELL6-2
+Removed Pin From Net: NetName=CN8 Pin=R203_CELL6-2
+Removed Pin From Net: NetName=NetR500_1 Pin=R500-1
+Removed Pin From Net: NetName=NetR501_1 Pin=R501-1
+Removed Pin From Net: NetName=NetD600_1 Pin=R600-1
+Removed Pin From Net: NetName=NetFault_1 Pin=R602-1
+Removed Pin From Net: NetName=NetR500_1 Pin=Rx-1
+Removed Pin From Net: NetName=VCAP_1 Pin=SW101-3
+Removed Pin From Net: NetName=CN7 Pin=SW?-6
+Removed Pin From Net: NetName=NetR501_1 Pin=Tx-1
+Removed Member From Class: ClassName=CP[1..12] Member=CN11
+Change Component Designator: OldDesignator=C303 NewDesignator=C304
+Change Component Designator: OldDesignator=C304 NewDesignator=C305
+Change Component Designator: OldDesignator=C305 NewDesignator=C303
+Change Component Designator: OldDesignator=Current Protector NewDesignator=Current Protector600
+Change Component Designator: OldDesignator=D602 NewDesignator=D601
+Change Component Designator: OldDesignator=DC/DC ISO NewDesignator=DC/DC ISO600
+Change Component Designator: OldDesignator=Fault NewDesignator=Fault600
+Change Component Designator: OldDesignator=L300 NewDesignator=L301
+Change Component Designator: OldDesignator=L301 NewDesignator=L302
+Change Component Designator: OldDesignator=R601 NewDesignator=R603
+Change Component Designator: OldDesignator=R602 NewDesignator=R604
+Change Component Designator: OldDesignator=R603 NewDesignator=R605
+Change Component Designator: OldDesignator=R604 NewDesignator=R606
+Change Component Designator: OldDesignator=R605 NewDesignator=R601
+Change Component Designator: OldDesignator=R606 NewDesignator=R602
+Change Component Designator: OldDesignator=R_Term NewDesignator=R_Term500
+Change Component Designator: OldDesignator=Rx NewDesignator=Rx500
+Change Component Designator: OldDesignator=SW? NewDesignator=SW100
+Change Component Designator: OldDesignator=Tactile Switch NewDesignator=Tactile Switch400
+Change Component Designator: OldDesignator=Tx NewDesignator=Tx500
+Change Component Description : Designator=Q200_CELL1 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL2 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL3 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL4 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL5 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL6 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL7 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL8 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL9 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL10 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL11 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL12 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Added Component: Designator=L300(INDC3216X13N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CM1 Pin=L200_CELL1-1
+Added Pin To Net: NetName=CN3 Pin=L200_CELL2-1
+Added Pin To Net: NetName=NetR501_1 Pin=L200_CELL3-1
+Added Pin To Net: NetName=NetR500_1 Pin=L200_CELL4-1
+Added Pin To Net: NetName=NetD600_1 Pin=L200_CELL5-1
+Added Pin To Net: NetName=NetFault_1 Pin=L200_CELL6-1
+Added Pin To Net: NetName=CN7 Pin=L200_CELL7-1
+Added Pin To Net: NetName=CN8 Pin=L200_CELL8-1
+Added Pin To Net: NetName=CN9 Pin=L200_CELL9-1
+Added Pin To Net: NetName=CN10 Pin=L200_CELL10-1
+Added Pin To Net: NetName=CN11 Pin=L200_CELL11-1
+Added Pin To Net: NetName=NetIC500_11 Pin=L200_CELL12-1
+Added Pin To Net: NetName=CN12 Pin=L300-1
+Added Pin To Net: NetName=CP12 Pin=L300-2
+Added Pin To Net: NetName=CN7 Pin=Q200_CELL6-2
+Added Pin To Net: NetName=CN7 Pin=R202_CELL6-2
+Added Pin To Net: NetName=CN7 Pin=R203_CELL6-2
+Added Pin To Net: NetName=CN8 Pin=SW100-2
+Added Pin To Net: NetName=CN9 Pin=SW100-3
+Added Pin To Net: NetName=CN10 Pin=SW100-4
+Added Pin To Net: NetName=CN11 Pin=SW100-5
+Added Pin To Net: NetName=NetIC500_11 Pin=SW100-6
+Added Pin To Net: NetName=CN3 Pin=SW101-2
+Added Pin To Net: NetName=NetR501_1 Pin=SW101-3
+Added Pin To Net: NetName=NetR500_1 Pin=SW101-4
+Added Pin To Net: NetName=NetD600_1 Pin=SW101-5
+Added Pin To Net: NetName=NetFault_1 Pin=SW101-6
+Change Net Name : Old Net Name=?0 New Net Name=?0
+Change Net Name : Old Net Name=?1 New Net Name=?1
+Change Net Name : Old Net Name=?2 New Net Name=?2
+Change Net Name : Old Net Name=?3 New Net Name=?3
+Change Net Name : Old Net Name=CN3 New Net Name=CN2
+Change Net Name : Old Net Name=CN12 New Net Name=BATT+
+Change Net Name : Old Net Name=NetC304_1 New Net Name=NetC305_1
+Change Net Name : Old Net Name=NetCurrent Protector_3 New Net Name=NetCurrent Protector600_3
+Change Net Name : Old Net Name=NetCurrent Protector_5 New Net Name=NetCurrent Protector600_5
+Change Net Name : Old Net Name=NetCurrent Protector_8 New Net Name=NetCurrent Protector600_8
+Change Net Name : Old Net Name=NetD600_1 New Net Name=CN5
+Change Net Name : Old Net Name=NetD602_1 New Net Name=NetD601_1
+Change Net Name : Old Net Name=NetFault_1 New Net Name=CN6
+Change Net Name : Old Net Name=NetIC500_11 New Net Name=CN12
+Change Net Name : Old Net Name=NetL300_2 New Net Name=NetL301_2
+Change Net Name : Old Net Name=NetR500_1 New Net Name=CN4
+Change Net Name : Old Net Name=NetR501_1 New Net Name=CN3
+Added Pin To Net: NetName=NetD600_1 Pin=D600-1
+Added Pin To Net: NetName=NetD600_1 Pin=R600-1
+Added Net: Name=NetD600_1
+Added Pin To Net: NetName=NetFault600_1 Pin=Fault600-1
+Added Pin To Net: NetName=NetFault600_1 Pin=R604-1
+Added Net: Name=NetFault600_1
+Added Pin To Net: NetName=NetIC500_11 Pin=IC500-11
+Added Net: Name=NetIC500_11
+Added Pin To Net: NetName=NetL200_CELL1_2 Pin=L200_CELL1-2
+Added Pin To Net: NetName=NetL200_CELL1_2 Pin=R200_CELL1-1
+Added Pin To Net: NetName=NetL200_CELL1_2 Pin=R201_CELL1-1
+Added Net: Name=NetL200_CELL1_2
+Added Pin To Net: NetName=NetL200_CELL2_2 Pin=L200_CELL2-2
+Added Pin To Net: NetName=NetL200_CELL2_2 Pin=R200_CELL2-1
+Added Pin To Net: NetName=NetL200_CELL2_2 Pin=R201_CELL2-1
+Added Net: Name=NetL200_CELL2_2
+Added Pin To Net: NetName=NetL200_CELL3_2 Pin=L200_CELL3-2
+Added Pin To Net: NetName=NetL200_CELL3_2 Pin=R200_CELL3-1
+Added Pin To Net: NetName=NetL200_CELL3_2 Pin=R201_CELL3-1
+Added Net: Name=NetL200_CELL3_2
+Added Pin To Net: NetName=NetL200_CELL4_2 Pin=L200_CELL4-2
+Added Pin To Net: NetName=NetL200_CELL4_2 Pin=R200_CELL4-1
+Added Pin To Net: NetName=NetL200_CELL4_2 Pin=R201_CELL4-1
+Added Net: Name=NetL200_CELL4_2
+Added Pin To Net: NetName=NetL200_CELL5_2 Pin=L200_CELL5-2
+Added Pin To Net: NetName=NetL200_CELL5_2 Pin=R200_CELL5-1
+Added Pin To Net: NetName=NetL200_CELL5_2 Pin=R201_CELL5-1
+Added Net: Name=NetL200_CELL5_2
+Added Pin To Net: NetName=NetL200_CELL6_2 Pin=L200_CELL6-2
+Added Pin To Net: NetName=NetL200_CELL6_2 Pin=R200_CELL6-1
+Added Pin To Net: NetName=NetL200_CELL6_2 Pin=R201_CELL6-1
+Added Net: Name=NetL200_CELL6_2
+Added Pin To Net: NetName=NetL200_CELL7_2 Pin=L200_CELL7-2
+Added Pin To Net: NetName=NetL200_CELL7_2 Pin=R200_CELL7-1
+Added Pin To Net: NetName=NetL200_CELL7_2 Pin=R201_CELL7-1
+Added Net: Name=NetL200_CELL7_2
+Added Pin To Net: NetName=NetL200_CELL8_2 Pin=L200_CELL8-2
+Added Pin To Net: NetName=NetL200_CELL8_2 Pin=R200_CELL8-1
+Added Pin To Net: NetName=NetL200_CELL8_2 Pin=R201_CELL8-1
+Added Net: Name=NetL200_CELL8_2
+Added Pin To Net: NetName=NetL200_CELL9_2 Pin=L200_CELL9-2
+Added Pin To Net: NetName=NetL200_CELL9_2 Pin=R200_CELL9-1
+Added Pin To Net: NetName=NetL200_CELL9_2 Pin=R201_CELL9-1
+Added Net: Name=NetL200_CELL9_2
+Added Pin To Net: NetName=NetL200_CELL10_2 Pin=L200_CELL10-2
+Added Pin To Net: NetName=NetL200_CELL10_2 Pin=R200_CELL10-1
+Added Pin To Net: NetName=NetL200_CELL10_2 Pin=R201_CELL10-1
+Added Net: Name=NetL200_CELL10_2
+Added Pin To Net: NetName=NetL200_CELL11_2 Pin=L200_CELL11-2
+Added Pin To Net: NetName=NetL200_CELL11_2 Pin=R200_CELL11-1
+Added Pin To Net: NetName=NetL200_CELL11_2 Pin=R201_CELL11-1
+Added Net: Name=NetL200_CELL11_2
+Added Pin To Net: NetName=NetL200_CELL12_2 Pin=L200_CELL12-2
+Added Pin To Net: NetName=NetL200_CELL12_2 Pin=R200_CELL12-1
+Added Pin To Net: NetName=NetL200_CELL12_2 Pin=R201_CELL12-1
+Added Net: Name=NetL200_CELL12_2
+Added Pin To Net: NetName=NetR500_1 Pin=R500-1
+Added Pin To Net: NetName=NetR500_1 Pin=Rx500-1
+Added Net: Name=NetR500_1
+Added Pin To Net: NetName=NetR501_1 Pin=R501-1
+Added Pin To Net: NetName=NetR501_1 Pin=Tx500-1
+Added Net: Name=NetR501_1
+Added Member To Class: ClassName=CELL1 Member=Component L200_CELL1 (L200) Ferrite Bead
+Added Member To Class: ClassName=CELL2 Member=Component L200_CELL2 (L200) Ferrite Bead
+Added Member To Class: ClassName=CELL3 Member=Component L200_CELL3 (L200) Ferrite Bead
+Added Member To Class: ClassName=CELL4 Member=Component L200_CELL4 (L200) Ferrite Bead
+Added Member To Class: ClassName=CELL5 Member=Component L200_CELL5 (L200) Ferrite Bead
+Added Member To Class: ClassName=CELL6 Member=Component L200_CELL6 (L200) Ferrite Bead
+Added Member To Class: ClassName=CELL7 Member=Component L200_CELL7 (L200) Ferrite Bead
+Added Member To Class: ClassName=CELL8 Member=Component L200_CELL8 (L200) Ferrite Bead
+Added Member To Class: ClassName=CELL9 Member=Component L200_CELL9 (L200) Ferrite Bead
+Added Member To Class: ClassName=CELL10 Member=Component L200_CELL10 (L200) Ferrite Bead
+Added Member To Class: ClassName=CELL11 Member=Component L200_CELL11 (L200) Ferrite Bead
+Added Member To Class: ClassName=CELL12 Member=Component L200_CELL12 (L200) Ferrite Bead
+Added Member To Class: ClassName=U_BMS_BatteryStackMonitor Member=Component L302 Ferrite Bead
+Added Member To Class: ClassName=CN[1..12] Member=Element[12]: CN
+Added Member To Class: ClassName=CP[1..12] Member=Element[12]: CP
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

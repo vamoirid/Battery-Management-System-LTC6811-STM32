@@ -1,0 +1,51 @@
+Change Component Description : Designator=Q200_CELL1 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL2 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL3 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL4 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL5 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL6 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL7 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL8 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL9 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL10 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL11 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL12 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Added Component: Designator=H1(Communication Connector)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(Communication Connector)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V_ISO Pin=H1-1
+Added Pin To Net: NetName=GND_ISO Pin=H1-2
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Pin To Net: NetName=5V_ISO Pin=H2-1
+Added Pin To Net: NetName=GND_ISO Pin=H2-2
+Added Pin To Net: NetName=NetH1_3 Pin=H2-3
+Added Pin To Net: NetName=NetH1_4 Pin=H2-4
+Change Net Name : Old Net Name=?0 New Net Name=?0
+Change Net Name : Old Net Name=?1 New Net Name=?1
+Change Net Name : Old Net Name=?2 New Net Name=?2
+Change Net Name : Old Net Name=?3 New Net Name=?3
+Change Net Name : Old Net Name=NetB1_0 New Net Name=Cell Vias.Cell_Raw_0
+Change Net Name : Old Net Name=NetB1_1 New Net Name=Cell Vias.Cell_Raw_1
+Change Net Name : Old Net Name=NetB1_2 New Net Name=Cell Vias.Cell_Raw_2
+Change Net Name : Old Net Name=NetB1_3 New Net Name=Cell Vias.Cell_Raw_3
+Change Net Name : Old Net Name=NetB1_4 New Net Name=Cell Vias.Cell_Raw_4
+Change Net Name : Old Net Name=NetB1_5 New Net Name=Cell Vias.Cell_Raw_5
+Change Net Name : Old Net Name=NetB1_6 New Net Name=Cell Vias.Cell_Raw_6
+Change Net Name : Old Net Name=NetB1_7 New Net Name=Cell Vias.Cell_Raw_7
+Change Net Name : Old Net Name=NetB1_8 New Net Name=Cell Vias.Cell_Raw_8
+Change Net Name : Old Net Name=NetB1_9 New Net Name=Cell Vias.Cell_Raw_9
+Change Net Name : Old Net Name=NetB1_10 New Net Name=Cell Vias.Cell_Raw_10
+Change Net Name : Old Net Name=NetB1_11 New Net Name=Cell Vias.Cell_Raw_11
+Change Net Name : Old Net Name=NetB1_12 New Net Name=Cell Vias.Cell_Raw_12
+Change Net Name : Old Net Name=NetC200_CELL1_1 New Net Name=C(n)_CELL1
+Change Net Name : Old Net Name=NetC201_CELL1_2 New Net Name=C(n-1)_CELL1
+Change Net Name : Old Net Name=NetH1_3 New Net Name=CAN BUS.CANH
+Change Net Name : Old Net Name=NetH1_4 New Net Name=CAN BUS.CANL
+Change Net Name : Old Net Name=NetL200_CELL1_1 New Net Name=CELL_CELL1_P
+Change Net Name : Old Net Name=NetMCU400_39 New Net Name=Voltage_Monitor
+Change Net Name : Old Net Name=NetR200_CELL1_1 New Net Name=CELL_CELL1_N
+Change Net Name : Old Net Name=NetR204_CELL1_1 New Net Name=S(n)_CELL1
+Added Member To Class: ClassName=BMS_Main Member=Component H1 Molex 4-pin
+Added Member To Class: ClassName=BMS_Main Member=Component H2 Molex 4-pin

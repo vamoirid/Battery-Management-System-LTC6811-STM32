@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=D200_CELL1 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D200_CELL2 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D200_CELL3 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D200_CELL4 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D200_CELL5 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D200_CELL6 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D200_CELL7 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D200_CELL8 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D200_CELL9 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D200_CELL10 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D200_CELL11 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D200_CELL12 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D400 Old Footprint=LED-0 New Footprint=SMD Blue LED
+Change Component Footprint: Designator=D600 Old Footprint=LED-0 New Footprint=SMD GREEN LED
+Change Component Footprint: Designator=D602 Old Footprint=LED-0 New Footprint=SMD GREEN LED
+Change Component Footprint: Designator=D301 Old Footprint=LED-0 New Footprint=SMD RED LED
+Change Component Footprint: Designator=D601 Old Footprint=LED-0 New Footprint=SMD RED LED
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

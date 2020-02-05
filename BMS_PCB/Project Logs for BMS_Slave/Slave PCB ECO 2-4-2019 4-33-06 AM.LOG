@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=L300 Old Footprint=0402-A New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L301 Old Footprint=0402-A New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL1 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL2 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL3 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL4 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL5 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL6 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL7 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL8 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL9 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL10 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL11 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=L200_CELL12 Old Footprint=INDC1608L New Footprint=INDC3216X13N
+Change Component Footprint: Designator=D500 Old Footprint=LED-0 New Footprint=SMD ORANGE LED
+Change Component Footprint: Designator=D501 Old Footprint=LED-0 New Footprint=SMD ORANGE LED

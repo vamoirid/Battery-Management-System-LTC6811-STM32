@@ -1,0 +1,174 @@
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C200_CELL2-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C200_CELL3-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C200_CELL4-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C200_CELL5-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C200_CELL6-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C200_CELL7-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C200_CELL8-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C200_CELL9-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C200_CELL10-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C200_CELL11-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C200_CELL12-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C201_CELL2-1
+Removed Pin From Net: NetName=C(n-1)_CELL1 Pin=C201_CELL2-2
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C201_CELL3-1
+Removed Pin From Net: NetName=C(n-1)_CELL1 Pin=C201_CELL3-2
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C201_CELL4-1
+Removed Pin From Net: NetName=C(n-1)_CELL1 Pin=C201_CELL4-2
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C201_CELL5-1
+Removed Pin From Net: NetName=C(n-1)_CELL1 Pin=C201_CELL5-2
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C201_CELL6-1
+Removed Pin From Net: NetName=C(n-1)_CELL1 Pin=C201_CELL6-2
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C201_CELL7-1
+Removed Pin From Net: NetName=C(n-1)_CELL1 Pin=C201_CELL7-2
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C201_CELL8-1
+Removed Pin From Net: NetName=C(n-1)_CELL1 Pin=C201_CELL8-2
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C201_CELL9-1
+Removed Pin From Net: NetName=C(n-1)_CELL1 Pin=C201_CELL9-2
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C201_CELL10-1
+Removed Pin From Net: NetName=C(n-1)_CELL1 Pin=C201_CELL10-2
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C201_CELL11-1
+Removed Pin From Net: NetName=C(n-1)_CELL1 Pin=C201_CELL11-2
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=C201_CELL12-1
+Removed Pin From Net: NetName=C(n-1)_CELL1 Pin=C201_CELL12-2
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=R203_CELL2-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=R203_CELL3-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=R203_CELL4-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=R203_CELL5-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=R203_CELL6-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=R203_CELL7-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=R203_CELL8-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=R203_CELL9-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=R203_CELL10-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=R203_CELL11-1
+Removed Pin From Net: NetName=C(n)_CELL1 Pin=R203_CELL12-1
+Removed Pin From Net: NetName=S(n)_CELL1 Pin=R204_CELL2-1
+Removed Pin From Net: NetName=S(n)_CELL1 Pin=R204_CELL3-1
+Removed Pin From Net: NetName=S(n)_CELL1 Pin=R204_CELL4-1
+Removed Pin From Net: NetName=S(n)_CELL1 Pin=R204_CELL5-1
+Removed Pin From Net: NetName=S(n)_CELL1 Pin=R204_CELL6-1
+Removed Pin From Net: NetName=S(n)_CELL1 Pin=R204_CELL7-1
+Removed Pin From Net: NetName=S(n)_CELL1 Pin=R204_CELL8-1
+Removed Pin From Net: NetName=S(n)_CELL1 Pin=R204_CELL9-1
+Removed Pin From Net: NetName=S(n)_CELL1 Pin=R204_CELL10-1
+Removed Pin From Net: NetName=S(n)_CELL1 Pin=R204_CELL11-1
+Removed Pin From Net: NetName=S(n)_CELL1 Pin=R204_CELL12-1
+Change Net Name : Old Net Name=CN1 New Net Name=BATT-
+Change Net Name : Old Net Name=CN2 New Net Name=Cells.Cell_1
+Change Net Name : Old Net Name=CN3 New Net Name=Cells.Cell_2
+Change Net Name : Old Net Name=CN4 New Net Name=Cells.Cell_3
+Change Net Name : Old Net Name=CN5 New Net Name=Cells.Cell_4
+Change Net Name : Old Net Name=CN6 New Net Name=Cells.Cell_5
+Change Net Name : Old Net Name=CN7 New Net Name=Cells.Cell_6
+Change Net Name : Old Net Name=CN8 New Net Name=Cells.Cell_7
+Change Net Name : Old Net Name=CN9 New Net Name=Cells.Cell_8
+Change Net Name : Old Net Name=CN10 New Net Name=Cells.Cell_9
+Change Net Name : Old Net Name=CN11 New Net Name=Cells.Cell_10
+Change Net Name : Old Net Name=CN12 New Net Name=Cells.Cell_11
+Added Pin To Net: NetName=C(n)_CELL2 Pin=C200_CELL2-1
+Added Pin To Net: NetName=C(n)_CELL2 Pin=C201_CELL2-1
+Added Pin To Net: NetName=C(n)_CELL2 Pin=R203_CELL2-1
+Added Net: Name=C(n)_CELL2
+Added Pin To Net: NetName=C(n)_CELL3 Pin=C200_CELL3-1
+Added Pin To Net: NetName=C(n)_CELL3 Pin=C201_CELL3-1
+Added Pin To Net: NetName=C(n)_CELL3 Pin=R203_CELL3-1
+Added Net: Name=C(n)_CELL3
+Added Pin To Net: NetName=C(n)_CELL4 Pin=C200_CELL4-1
+Added Pin To Net: NetName=C(n)_CELL4 Pin=C201_CELL4-1
+Added Pin To Net: NetName=C(n)_CELL4 Pin=R203_CELL4-1
+Added Net: Name=C(n)_CELL4
+Added Pin To Net: NetName=C(n)_CELL5 Pin=C200_CELL5-1
+Added Pin To Net: NetName=C(n)_CELL5 Pin=C201_CELL5-1
+Added Pin To Net: NetName=C(n)_CELL5 Pin=R203_CELL5-1
+Added Net: Name=C(n)_CELL5
+Added Pin To Net: NetName=C(n)_CELL6 Pin=C200_CELL6-1
+Added Pin To Net: NetName=C(n)_CELL6 Pin=C201_CELL6-1
+Added Pin To Net: NetName=C(n)_CELL6 Pin=R203_CELL6-1
+Added Net: Name=C(n)_CELL6
+Added Pin To Net: NetName=C(n)_CELL7 Pin=C200_CELL7-1
+Added Pin To Net: NetName=C(n)_CELL7 Pin=C201_CELL7-1
+Added Pin To Net: NetName=C(n)_CELL7 Pin=R203_CELL7-1
+Added Net: Name=C(n)_CELL7
+Added Pin To Net: NetName=C(n)_CELL8 Pin=C200_CELL8-1
+Added Pin To Net: NetName=C(n)_CELL8 Pin=C201_CELL8-1
+Added Pin To Net: NetName=C(n)_CELL8 Pin=R203_CELL8-1
+Added Net: Name=C(n)_CELL8
+Added Pin To Net: NetName=C(n)_CELL9 Pin=C200_CELL9-1
+Added Pin To Net: NetName=C(n)_CELL9 Pin=C201_CELL9-1
+Added Pin To Net: NetName=C(n)_CELL9 Pin=R203_CELL9-1
+Added Net: Name=C(n)_CELL9
+Added Pin To Net: NetName=C(n)_CELL10 Pin=C200_CELL10-1
+Added Pin To Net: NetName=C(n)_CELL10 Pin=C201_CELL10-1
+Added Pin To Net: NetName=C(n)_CELL10 Pin=R203_CELL10-1
+Added Net: Name=C(n)_CELL10
+Added Pin To Net: NetName=C(n)_CELL11 Pin=C200_CELL11-1
+Added Pin To Net: NetName=C(n)_CELL11 Pin=C201_CELL11-1
+Added Pin To Net: NetName=C(n)_CELL11 Pin=R203_CELL11-1
+Added Net: Name=C(n)_CELL11
+Added Pin To Net: NetName=C(n)_CELL12 Pin=C200_CELL12-1
+Added Pin To Net: NetName=C(n)_CELL12 Pin=C201_CELL12-1
+Added Pin To Net: NetName=C(n)_CELL12 Pin=R203_CELL12-1
+Added Net: Name=C(n)_CELL12
+Added Pin To Net: NetName=C(n-1)_CELL2 Pin=C201_CELL2-2
+Added Net: Name=C(n-1)_CELL2
+Added Pin To Net: NetName=C(n-1)_CELL3 Pin=C201_CELL3-2
+Added Net: Name=C(n-1)_CELL3
+Added Pin To Net: NetName=C(n-1)_CELL4 Pin=C201_CELL4-2
+Added Net: Name=C(n-1)_CELL4
+Added Pin To Net: NetName=C(n-1)_CELL5 Pin=C201_CELL5-2
+Added Net: Name=C(n-1)_CELL5
+Added Pin To Net: NetName=C(n-1)_CELL6 Pin=C201_CELL6-2
+Added Net: Name=C(n-1)_CELL6
+Added Pin To Net: NetName=C(n-1)_CELL7 Pin=C201_CELL7-2
+Added Net: Name=C(n-1)_CELL7
+Added Pin To Net: NetName=C(n-1)_CELL8 Pin=C201_CELL8-2
+Added Net: Name=C(n-1)_CELL8
+Added Pin To Net: NetName=C(n-1)_CELL9 Pin=C201_CELL9-2
+Added Net: Name=C(n-1)_CELL9
+Added Pin To Net: NetName=C(n-1)_CELL10 Pin=C201_CELL10-2
+Added Net: Name=C(n-1)_CELL10
+Added Pin To Net: NetName=C(n-1)_CELL11 Pin=C201_CELL11-2
+Added Net: Name=C(n-1)_CELL11
+Added Pin To Net: NetName=C(n-1)_CELL12 Pin=C201_CELL12-2
+Added Net: Name=C(n-1)_CELL12
+Added Pin To Net: NetName=S(n)_CELL2 Pin=R204_CELL2-1
+Added Net: Name=S(n)_CELL2
+Added Pin To Net: NetName=S(n)_CELL3 Pin=R204_CELL3-1
+Added Net: Name=S(n)_CELL3
+Added Pin To Net: NetName=S(n)_CELL4 Pin=R204_CELL4-1
+Added Net: Name=S(n)_CELL4
+Added Pin To Net: NetName=S(n)_CELL5 Pin=R204_CELL5-1
+Added Net: Name=S(n)_CELL5
+Added Pin To Net: NetName=S(n)_CELL6 Pin=R204_CELL6-1
+Added Net: Name=S(n)_CELL6
+Added Pin To Net: NetName=S(n)_CELL7 Pin=R204_CELL7-1
+Added Net: Name=S(n)_CELL7
+Added Pin To Net: NetName=S(n)_CELL8 Pin=R204_CELL8-1
+Added Net: Name=S(n)_CELL8
+Added Pin To Net: NetName=S(n)_CELL9 Pin=R204_CELL9-1
+Added Net: Name=S(n)_CELL9
+Added Pin To Net: NetName=S(n)_CELL10 Pin=R204_CELL10-1
+Added Net: Name=S(n)_CELL10
+Added Pin To Net: NetName=S(n)_CELL11 Pin=R204_CELL11-1
+Added Net: Name=S(n)_CELL11
+Added Pin To Net: NetName=S(n)_CELL12 Pin=R204_CELL12-1
+Added Net: Name=S(n)_CELL12
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

@@ -1,0 +1,30 @@
+Added Component: Designator=SC400(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SC401(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V Pin=SC400-1
+Added Pin To Net: NetName=BOOT0 Pin=SC400-2
+Added Pin To Net: NetName=GND Pin=SC401-1
+Added Pin To Net: NetName=BOOT0 Pin=SC401-2
+Change Net Name : Old Net Name=BOOT1 New Net Name=NetMCU400_28
+Added Member To Class: ClassName=U_BMS_Microcontroller Member=Component SC400 Short Circuit
+Added Member To Class: ClassName=U_BMS_Microcontroller Member=Component SC401 Short Circuit
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

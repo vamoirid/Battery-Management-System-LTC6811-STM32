@@ -1,0 +1,43 @@
+Change Component Footprint: Designator=R201_CELL1 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Footprint: Designator=R201_CELL2 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Footprint: Designator=R201_CELL3 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Footprint: Designator=R201_CELL4 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Footprint: Designator=R201_CELL5 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Footprint: Designator=R201_CELL6 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Footprint: Designator=R201_CELL7 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Footprint: Designator=R201_CELL8 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Footprint: Designator=R201_CELL9 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Footprint: Designator=R201_CELL10 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Footprint: Designator=R201_CELL11 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Footprint: Designator=R201_CELL12 Old Footprint=RESC2012X07N New Footprint=RESC1632X06N
+Change Component Description : Designator=R201_CELL1 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Change Component Description : Designator=R201_CELL2 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Change Component Description : Designator=R201_CELL3 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Change Component Description : Designator=R201_CELL4 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Change Component Description : Designator=R201_CELL5 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Change Component Description : Designator=R201_CELL6 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Change Component Description : Designator=R201_CELL7 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Change Component Description : Designator=R201_CELL8 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Change Component Description : Designator=R201_CELL9 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Change Component Description : Designator=R201_CELL10 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Change Component Description : Designator=R201_CELL11 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Change Component Description : Designator=R201_CELL12 Old Description=Discharge Resistance New Description=0612 Discharge Resistance - WK73R2BTTD42R2F
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

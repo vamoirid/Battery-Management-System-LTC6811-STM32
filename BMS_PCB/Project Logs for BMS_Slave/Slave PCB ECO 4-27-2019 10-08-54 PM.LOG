@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND_ISO Pin=C501-1
+Removed Pin From Net: NetName=GND_ISO Pin=C_Term500-2
+Removed Pin From Net: NetName=GND_ISO Pin=H1-2
+Removed Pin From Net: NetName=GND_ISO Pin=IC500-9
+Removed Pin From Net: NetName=GND_ISO Pin=IC500-10
+Removed Pin From Net: NetName=GND_ISO Pin=IC500-15
+Removed Pin From Net: NetName=GND_ISO Pin=IC501-3
+Added Pin To Net: NetName=GND_ISO Pin=H1-1
+Change Net Name : Old Net Name=GND_ISO New Net Name=24V
+Added Pin To Net: NetName=GND_ISO Pin=5V Regulator-2
+Added Pin To Net: NetName=GND_ISO Pin=C501-1
+Added Pin To Net: NetName=GND_ISO Pin=C600-2
+Added Pin To Net: NetName=GND_ISO Pin=C606-2
+Added Pin To Net: NetName=GND_ISO Pin=C607-2
+Added Pin To Net: NetName=GND_ISO Pin=C_Term500-2
+Added Pin To Net: NetName=GND_ISO Pin=D602-2
+Added Pin To Net: NetName=GND_ISO Pin=DC/DC ISO600-2
+Added Pin To Net: NetName=GND_ISO Pin=H1-2
+Added Pin To Net: NetName=GND_ISO Pin=H2-1
+Added Pin To Net: NetName=GND_ISO Pin=IC500-9
+Added Pin To Net: NetName=GND_ISO Pin=IC500-10
+Added Pin To Net: NetName=GND_ISO Pin=IC500-15
+Added Pin To Net: NetName=GND_ISO Pin=IC501-3
+Added Net: Name=GND_ISO
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

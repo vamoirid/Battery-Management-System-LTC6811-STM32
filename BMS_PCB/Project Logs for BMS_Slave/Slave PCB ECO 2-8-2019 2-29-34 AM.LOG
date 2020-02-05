@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=CM1 Pin=L200_CELL1-1
+Removed Pin From Net: NetName=BATT+ Pin=L300-1
+Removed Pin From Net: NetName=CN7 Pin=SW100-1
+Removed Pin From Net: NetName=CN8 Pin=SW100-2
+Removed Pin From Net: NetName=CN9 Pin=SW100-3
+Removed Pin From Net: NetName=CN10 Pin=SW100-4
+Removed Pin From Net: NetName=CN11 Pin=SW100-5
+Removed Pin From Net: NetName=CN12 Pin=SW100-6
+Removed Pin From Net: NetName=CN2 Pin=SW101-2
+Removed Pin From Net: NetName=CN3 Pin=SW101-3
+Removed Pin From Net: NetName=CN4 Pin=SW101-4
+Removed Pin From Net: NetName=CN5 Pin=SW101-5
+Removed Pin From Net: NetName=CN6 Pin=SW101-6
+Removed Pin From Net: NetName=CN7 Pin=SW101-7
+Removed Pin From Net: NetName=CF6 Pin=SW101-8
+Change Net Name : Old Net Name=CM1 New Net Name=C0
+Added Pin To Net: NetName=Cells.Cell_1 Pin=SW101-2
+Added Net: Name=Cells.Cell_1
+Added Pin To Net: NetName=Cells.Cell_2 Pin=SW101-3
+Added Net: Name=Cells.Cell_2
+Added Pin To Net: NetName=Cells.Cell_3 Pin=SW101-4
+Added Net: Name=Cells.Cell_3
+Added Pin To Net: NetName=Cells.Cell_4 Pin=SW101-5
+Added Net: Name=Cells.Cell_4
+Added Pin To Net: NetName=Cells.Cell_5 Pin=SW101-6
+Added Net: Name=Cells.Cell_5
+Added Pin To Net: NetName=Cells.Cell_6 Pin=SW100-1
+Added Pin To Net: NetName=Cells.Cell_6 Pin=SW101-7
+Added Net: Name=Cells.Cell_6
+Added Pin To Net: NetName=Cells.Cell_7 Pin=SW100-2
+Added Net: Name=Cells.Cell_7
+Added Pin To Net: NetName=Cells.Cell_8 Pin=SW100-3
+Added Net: Name=Cells.Cell_8
+Added Pin To Net: NetName=Cells.Cell_9 Pin=SW100-4
+Added Net: Name=Cells.Cell_9
+Added Pin To Net: NetName=Cells.Cell_10 Pin=SW100-5
+Added Net: Name=Cells.Cell_10
+Added Pin To Net: NetName=Cells.Cell_11 Pin=SW100-6
+Added Net: Name=Cells.Cell_11
+Added Pin To Net: NetName=CN1 Pin=L200_CELL1-1
+Added Net: Name=CN1
+Added Pin To Net: NetName=NetL300_1 Pin=L300-1
+Added Net: Name=NetL300_1
+Added Pin To Net: NetName=NetSW101_8 Pin=SW101-8
+Added Net: Name=NetSW101_8
+Added Member To Class: ClassName=C[1..12] Member=Element[0]: C
+Added Member To Class: ClassName=CN[1..12] Member=Element[1]: CN
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

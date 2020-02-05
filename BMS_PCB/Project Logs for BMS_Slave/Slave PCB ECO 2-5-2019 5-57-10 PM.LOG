@@ -1,0 +1,42 @@
+Change Net Name : Old Net Name=Cells.Cell_1 New Net Name=NetSW101_9
+Change Net Name : Old Net Name=Cells.Cell_2 New Net Name=NetSW101_10
+Change Net Name : Old Net Name=Cells.Cell_3 New Net Name=NetSW101_11
+Change Net Name : Old Net Name=Cells.Cell_4 New Net Name=NetSW101_12
+Change Net Name : Old Net Name=Cells.Cell_5 New Net Name=NetSW101_13
+Change Net Name : Old Net Name=Cells.Cell_6 New Net Name=NetSW100_8
+Change Net Name : Old Net Name=Cells.Cell_7 New Net Name=NetSW100_9
+Change Net Name : Old Net Name=Cells.Cell_8 New Net Name=NetSW100_10
+Change Net Name : Old Net Name=Cells.Cell_9 New Net Name=NetSW100_11
+Change Net Name : Old Net Name=Cells.Cell_10 New Net Name=NetSW100_12
+Change Net Name : Old Net Name=Cells.Cell_11 New Net Name=NetSW100_13
+Added Member To Class: ClassName=C[0..12] Member=Element[1]: C
+Added Member To Class: ClassName=C[0..12] Member=Element[2]: C
+Added Member To Class: ClassName=C[0..12] Member=Element[3]: C
+Added Member To Class: ClassName=C[0..12] Member=Element[4]: C
+Added Member To Class: ClassName=C[0..12] Member=Element[5]: C
+Added Member To Class: ClassName=C[0..12] Member=Element[6]: C
+Added Member To Class: ClassName=C[0..12] Member=Element[7]: C
+Added Member To Class: ClassName=C[0..12] Member=Element[8]: C
+Added Member To Class: ClassName=C[0..12] Member=Element[9]: C
+Added Member To Class: ClassName=C[0..12] Member=Element[10]: C
+Added Member To Class: ClassName=C[0..12] Member=Element[11]: C
+Added Member To Class: ClassName=C[0..12] Member=Element[12]: C
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

@@ -1,0 +1,55 @@
+Change Net Name : Old Net Name=C(n)_CELL1 New Net Name=C_CELL1
+Change Net Name : Old Net Name=C(n)_CELL2 New Net Name=C_CELL2
+Change Net Name : Old Net Name=C(n)_CELL3 New Net Name=C_CELL3
+Change Net Name : Old Net Name=C(n)_CELL4 New Net Name=C_CELL4
+Change Net Name : Old Net Name=C(n)_CELL5 New Net Name=C_CELL5
+Change Net Name : Old Net Name=C(n)_CELL6 New Net Name=C_CELL6
+Change Net Name : Old Net Name=C(n)_CELL7 New Net Name=C_CELL7
+Change Net Name : Old Net Name=C(n)_CELL8 New Net Name=C_CELL8
+Change Net Name : Old Net Name=C(n)_CELL9 New Net Name=C_CELL9
+Change Net Name : Old Net Name=C(n)_CELL10 New Net Name=C_CELL10
+Change Net Name : Old Net Name=C(n)_CELL11 New Net Name=C_CELL11
+Change Net Name : Old Net Name=C(n)_CELL12 New Net Name=C_CELL12
+Change Net Name : Old Net Name=C(n-1)_CELL1 New Net Name=C-1_CELL1
+Change Net Name : Old Net Name=C(n-1)_CELL2 New Net Name=C-1_CELL2
+Change Net Name : Old Net Name=C(n-1)_CELL3 New Net Name=C-1_CELL3
+Change Net Name : Old Net Name=C(n-1)_CELL4 New Net Name=C-1_CELL4
+Change Net Name : Old Net Name=C(n-1)_CELL5 New Net Name=C-1_CELL5
+Change Net Name : Old Net Name=C(n-1)_CELL6 New Net Name=C-1_CELL6
+Change Net Name : Old Net Name=C(n-1)_CELL7 New Net Name=C-1_CELL7
+Change Net Name : Old Net Name=C(n-1)_CELL8 New Net Name=C-1_CELL8
+Change Net Name : Old Net Name=C(n-1)_CELL9 New Net Name=C-1_CELL9
+Change Net Name : Old Net Name=C(n-1)_CELL10 New Net Name=C-1_CELL10
+Change Net Name : Old Net Name=C(n-1)_CELL11 New Net Name=C-1_CELL11
+Change Net Name : Old Net Name=C(n-1)_CELL12 New Net Name=C-1_CELL12
+Change Net Name : Old Net Name=S(n)_CELL1 New Net Name=S_CELL1
+Change Net Name : Old Net Name=S(n)_CELL2 New Net Name=S_CELL2
+Change Net Name : Old Net Name=S(n)_CELL3 New Net Name=S_CELL3
+Change Net Name : Old Net Name=S(n)_CELL4 New Net Name=S_CELL4
+Change Net Name : Old Net Name=S(n)_CELL5 New Net Name=S_CELL5
+Change Net Name : Old Net Name=S(n)_CELL6 New Net Name=S_CELL6
+Change Net Name : Old Net Name=S(n)_CELL7 New Net Name=S_CELL7
+Change Net Name : Old Net Name=S(n)_CELL8 New Net Name=S_CELL8
+Change Net Name : Old Net Name=S(n)_CELL9 New Net Name=S_CELL9
+Change Net Name : Old Net Name=S(n)_CELL10 New Net Name=S_CELL10
+Change Net Name : Old Net Name=S(n)_CELL11 New Net Name=S_CELL11
+Change Net Name : Old Net Name=S(n)_CELL12 New Net Name=S_CELL12
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

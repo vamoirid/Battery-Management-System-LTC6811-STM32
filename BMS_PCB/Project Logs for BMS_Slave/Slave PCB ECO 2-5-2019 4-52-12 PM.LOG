@@ -1,0 +1,49 @@
+Change Component Description : Designator=Q200_CELL1 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL2 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL3 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL4 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL5 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL6 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL7 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL8 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL9 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL10 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL11 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Change Component Description : Designator=Q200_CELL12 Old Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package. New Description=P-channel -30 V, 48 mO typICAL, -2 A STripFET™ H6 Power MOSFET in a SOT-23 package.
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_0 Pin=B1-0
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_1 Pin=B1-1
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_2 Pin=B1-2
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_3 Pin=B1-3
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_4 Pin=B1-4
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_5 Pin=B1-5
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_6 Pin=B1-6
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_7 Pin=B1-7
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_8 Pin=B1-8
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_9 Pin=B1-9
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_10 Pin=B1-10
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_11 Pin=B1-11
+Added Pin To Net: NetName=Cell Vias.Cell_Raw_12 Pin=B1-12
+Change Net Name : Old Net Name=?0 New Net Name=?0
+Change Net Name : Old Net Name=?1 New Net Name=?1
+Change Net Name : Old Net Name=?2 New Net Name=?2
+Change Net Name : Old Net Name=?3 New Net Name=?3
+Added Member To Class: ClassName=BMS_Main Member=Component B1 Battery Pack
+Added Room: Name=BMS_Main
+Added Room: Name=CELL1
+Added Room: Name=CELL2
+Added Room: Name=CELL3
+Added Room: Name=CELL4
+Added Room: Name=CELL5
+Added Room: Name=CELL6
+Added Room: Name=CELL7
+Added Room: Name=CELL8
+Added Room: Name=CELL9
+Added Room: Name=CELL10
+Added Room: Name=CELL11
+Added Room: Name=CELL12
+Added Room: Name=U_BMS_BatteryStackMonitor
+Added Room: Name=U_BMS_BatteryThermistors
+Added Room: Name=U_BMS_CAN
+Added Room: Name=U_BMS_Microcontroller
+Added Room: Name=U_BMS_PowerManagement
+Added Room: Name=U_BMS_SafetyCircuit

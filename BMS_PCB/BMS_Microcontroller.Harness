@@ -1,0 +1,5 @@
+Address=A3,A2,A1,A0
+CAN Controller=TXD,RXD
+SPI=SCK,MISO,MOSI,CS
+SWD=SWDIO,SWO,CLK,RST
+Thermistors=Therm1,Therm2,Therm3,Therm4,Therm5

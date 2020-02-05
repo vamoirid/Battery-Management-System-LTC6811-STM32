@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BMS_Slave.PrjPCB]
+   Generated File[Slave.GTO]
+   Generated File[Slave.GTP]
+   Generated File[Slave.GTS]
+   Generated File[Slave.GTL]
+   Generated File[Slave.GBL]
+   Generated File[Slave.GBS]
+   Generated File[Slave.GBP]
+   Generated File[Slave.GBO]
+   Generated File[Slave.GM1]
+   Generated File[Slave.GKO]
+   Generated File[Slave.RUL]
+   Generated File[Slave.EXTREP]
+   Generated File[Slave.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 8:24:26 PM On 5/1/2019
