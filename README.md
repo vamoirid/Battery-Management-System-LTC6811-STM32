@@ -20,3 +20,12 @@ The Schematics of the PCB are divided into sections with respect to their respon
 * **BMS_BatteryThermistors**: Thermistors which are used for temperature monitoring.
 * **BMS_SafetyCircuit**: All the fuses and switches which are used for safety.
 * **Cells_Unfused**: it is not really a sub-schematic but these are the holes which transfer the voltage measurements from the cells. M4 bolts with positive locking.
+
+## Safety Circuit
+
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/BMS_SafetyCircuit.png">
+
+The safety Circuit has the unfused voltage measurements as **input**. The paths use 13 fuses at 2A medium-blow in order to fuse the measurement as it is required by the _FSAE Rules_. Apart from this, switches are used for 2 reasons. The first reason is in order to be able to cut-off the measurement of any cell and see if the LTC6811 is going to generate an error as it is required by the _FSAE Rules_. The second reason is that during the assembly, if the PCB does not make a good contact with the Cell Tabs and M4 bolts then this could generate spikes that can harm the LTC6811 so these switches are used to limit the cell voltages before the switches. The first **output** is the cell voltages **before** the switches which is directed to **H4 14-pin** connector outside of the Accumulator and the second **output** are the cell voltages **after** the switches which are routed to the rest of the PCB.
+
+
+
