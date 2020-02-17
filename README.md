@@ -64,5 +64,17 @@ The MCU is the STM32F446RET6U with 64-pins and 180MHz clock. Almost every one of
 
 Each segment inside the Accumulator Container communicates with the BMS-Master via CAN protocol. This is done because it is requiring only 2 wires instead of 4 for the SPI and because it is also used in every other part of the car that interfaces an MCU. The CAN Transceiver is the **ISO1050DWR** from **Texas Instruments**. It is an Isolated CAN Transceiver that is used in applications requiring galvanic isolation between the input and the output signals. The components used in the bus can be used for testing but inside the car only 2 120 Ohms resistors can be used in the whole bus.
 
+## Power Management
 
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/BMS_PowerManagement.png">
+
+The most controversial circuit of the board is the **Power Management** circuit. There are 2 main ways in order to design the Power Distribution of the board. Either directly from the batteries just like the LTC6811 or through the Low Voltage System (LVS) of the car. There were plenty advantages and disadvantages for both ways. 
+
+#### Power from the Low Voltage 
+
+This is the design that was followed for this board. The main **advantage** is that the board does not consume any power when the LVS is off (Car is off). This means that the Accumulator can be left alone and not worry if the batteries are drained or not. The main **disadvantage** is the fact that except for the Isolated CAN Transceiver, we also need to use an Isolated DC/DC converter to transfer the power from the LVS to the HVS of the PCB.
+
+#### Power directly from the Batteries
+
+The other design is a little bit more controversial but needed a lot more time, studying and testing in order to be fully functional and safe. One **disadvantage** of this is that there are not many voltage converters that can convert 36-51V to 5V with almost 500mA of current in the output and also be in a reasonable size and cost. If we overcome this problem somehow then we reach to the second and a lot more important **disadvantage** of this board. If the MCU is directly supplied by the Batteries, this means that the MCU will always be working even if the LVS is off or even if the Accumulator Container was out of the car. This is a huge problem because the batteries would need a lot more times to be charged because even though an MCU draws too little current compared to the total capacity of the Accumulator Container but 7 of them in a 24 hour basis means that the container could not be left without charging for several weeks. Moreover an Isolated CAN Transceiver with also Isolated Power Supply should be used in order to power the Isolated side of the IC but that is not a problem because such there are plenty of such ICs. The amazing **advantage** of this board is that it would need only 1 IC to interface with the LVS side, meaning a lot less components on this side but the most important feature is that it would need only 2 wires (CANH, CANL) for interconnection with the segments and the BMS-Master.
 
