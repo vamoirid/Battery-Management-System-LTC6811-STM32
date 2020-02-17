@@ -78,3 +78,22 @@ This is the design that was followed for this board. The main **advantage** is t
 
 The other design is a little bit more controversial but needed a lot more time, studying and testing in order to be fully functional and safe. One **disadvantage** of this is that there are not many voltage converters that can convert 36-51V to 5V with almost 500mA of current in the output and also be in a reasonable size and cost. If we overcome this problem somehow then we reach to the second and a lot more important **disadvantage** of this board. If the MCU is directly supplied by the Batteries, this means that the MCU will always be working even if the LVS is off or even if the Accumulator Container was out of the car. This is a huge problem because the batteries would need a lot more times to be charged because even though an MCU draws too little current compared to the total capacity of the Accumulator Container but 7 of them in a 24 hour basis means that the container could not be left without charging for several weeks. Moreover an Isolated CAN Transceiver with also Isolated Power Supply should be used in order to power the Isolated side of the IC but that is not a problem because such there are plenty of such ICs. The amazing **advantage** of this board is that it would need only 1 IC to interface with the LVS side, meaning a lot less components on this side but the most important feature is that it would need only 2 wires (CANH, CANL) for interconnection with the segments and the BMS-Master.
 
+## Conclusion
+
+The PCB was fully functional inside and outside of the vehicle after a lot of testing. There are a lot of thing that could be done to be improved such as getting Power directly from the Batteries but somehow disabling the MCU when there are no CAN messages to reach the Power consumption to almost 0 A. If someone has been helped by this project, do not forget to mention me and also if you find a way to improve it I would be glad to hear it!
+
+#### Images
+
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_2D_All.png">
+
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_2D_Top.png">
+
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_2D_Bottom.png">
+
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_3D_Front.png">
+
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_3D_Back.png">
+
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_Real_Front.png">
+
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_Real_Side.png">
