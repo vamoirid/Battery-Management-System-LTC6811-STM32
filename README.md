@@ -94,6 +94,6 @@ The PCB was fully functional inside and outside of the vehicle after a lot of te
 
 <img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_3D_Back.png">
 
-<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_Real_Front.png">
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_Real_Front.jpg">
 
-<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_Real_Side.png">
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/PCB_Real_Side.jpg">
