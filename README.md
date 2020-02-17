@@ -37,7 +37,11 @@ The **inputs** of this circuit are the **outputs** of the **Safety Circuit**. Mo
 
 <img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/BMS_CellCircuit.png">
 
-These are all the components that are used for every cell in the segment. The **inputs** of course are the positive and the negative tab of each cell. A Ferrite-Bead is used for each voltage measurement as it is suggested by the Dev-Board. Analog Devices proposes 2 filters one with the C200 capacitor and one with the C201 capacitor with respect to either faster measurements or more accurate measurements. There is also a MOSFET for **Active Dissipative Balancing** with 3 0612 resistors connected in parallel. There is also a LED indicator for showing whether a cell is discharging or not.
+These are all the components that are used for every cell in the segment. The **inputs** of course are the positive and the negative tab of each cell. A Ferrite-Bead is used for each voltage measurement as it is suggested by the Dev-Board. Analog Devices proposes 2 filters one with the C200 capacitor and one with the C201 capacitor with respect to either faster measurements or more accurate measurements. There is also a MOSFET for **Active Dissipative Balancing** with 3 0612 resistors connected in parallel. There is also a LED indicator for showing whether a cell is discharging or not. The **outputs** are the filtered Voltage measurement, the Gate of the MOSFET and the capacitor pin to be used in the 2nd proposed Analog Devices' filter.
 
+## Thermistors
 
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/BMS_BatteryThermistors.png">
+
+There are 5 thermistors used for Battery Temperature Monitoring. These Thermistors are connected with **2-pin** right angle connectors with pull-up resistors. These measurements are monitored by the MCU in order to be done simultaneously with the LTC6811 measurements in order to achieve higher speeds. If there is any implausibility in the temperature measurement connection, the pull-up resistor will ensure that the measurement will be driven HIGH so the MCU will generate an error. 
 
