@@ -58,5 +58,11 @@ The MCU is the STM32F446RET6U with 64-pins and 180MHz clock. Almost every one of
 * Address signals for software manipulation
 * Voltage Monitoring of the output of the Isolated DC/DC Converter
 
+## CAN
+
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/BMS_CAN.png">
+
+Each segment inside the Accumulator Container communicates with the BMS-Master via CAN protocol. This is done because it is requiring only 2 wires instead of 4 for the SPI and because it is also used in every other part of the car that interfaces an MCU. The CAN Transceiver is the **ISO1050DWR** from **Texas Instruments**. It is an Isolated CAN Transceiver that is used in applications requiring galvanic isolation between the input and the output signals. The components used in the bus can be used for testing but inside the car only 2 120 Ohms resistors can be used in the whole bus.
+
 
 
