@@ -45,3 +45,18 @@ These are all the components that are used for every cell in the segment. The **
 
 There are 5 thermistors used for Battery Temperature Monitoring. These Thermistors are connected with **2-pin** right angle connectors with pull-up resistors. These measurements are monitored by the MCU in order to be done simultaneously with the LTC6811 measurements in order to achieve higher speeds. If there is any implausibility in the temperature measurement connection, the pull-up resistor will ensure that the measurement will be driven HIGH so the MCU will generate an error. 
 
+## Microcontroller Unit
+
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/BMS_Microcontroller.png">
+
+The MCU is the STM32F446RET6U with 64-pins and 180MHz clock. Almost every one of the components are taken from the ST official schematic for the respective Nucleo-Board. The signals that are processed by the MCU are:
+
+* CANTX and CANRX signals with the CAN Transceiver
+* SWD signals for the programming of the MCU
+* SPI signals for communication with the LTC6811
+* Thermistors' signals for the temperature measurements
+* Address signals for software manipulation
+* Voltage Monitoring of the output of the Isolated DC/DC Converter
+
+
+
