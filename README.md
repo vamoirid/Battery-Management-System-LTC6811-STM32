@@ -32,3 +32,12 @@ The safety Circuit has the unfused voltage measurements as **input**. The paths 
 <img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/BMS_BatteryStackMonitor.png">
 
 The **inputs** of this circuit are the **outputs** of the **Safety Circuit**. Most of the components on this schematic are taken from the [Analog Devices LTC6811 Dev-Board](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/dc2260a.html). The **outputs** of this circuit are the **SPI Communication** pins for the communication with the MCU and the **Address pins** of the LTC in order to use in the software. The rest are inside the **BMS_CellCircuit**.
+
+## Cell Circuit
+
+<img src="https://github.com/vamoirid/Battery-Management-System-LTC6811-STM32/blob/master/images/BMS_CellCircuit.png">
+
+These are all the components that are used for every cell in the segment. The **inputs** of course are the positive and the negative tab of each cell. A Ferrite-Bead is used for each voltage measurement as it is suggested by the Dev-Board. Analog Devices proposes 2 filters one with the C200 capacitor and one with the C201 capacitor with respect to either faster measurements or more accurate measurements. There is also a MOSFET for **Active Dissipative Balancing** with 3 0612 resistors connected in parallel. There is also a LED indicator for showing whether a cell is discharging or not.
+
+
+
